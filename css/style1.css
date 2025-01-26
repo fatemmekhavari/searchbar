@@ -39,7 +39,7 @@ input{
     font-size: 25px;
     line-height: 80px;
     color: #fff;
-    transition: all 0.6s ease
+    transition: all 0.6s ease;
 }
 .container:hover input{
     width: 250px;
